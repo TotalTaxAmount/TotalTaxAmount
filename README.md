@@ -1,5 +1,12 @@
-Someone took the name InvisibleCat so im InvisibleCatA1 idk
-
+## Hello!
+I am InvisibleCat, I like to write code and do random stuff.
+Languages I am familer with:
+  - Python
+  - Java
+ 
+ I am still learning more but those are the ones I am familer with at the time of writing this
+ 
+ I have no idea what else to put here lol
 <!---
 InvisibleCatA1/InvisibleCatA1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
