@@ -7,6 +7,7 @@ Languages I am familer with:
  I am still learning more but those are the ones I am familer with at the time of writing this
  
  I have no idea what else to put here lol
+ 
  [![InvisibleCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=InvisibleCatA1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
