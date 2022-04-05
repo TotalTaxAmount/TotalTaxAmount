@@ -8,7 +8,7 @@ Languages I am familer with:
  
  I have no idea what else to put here lol
  
- [![InvisibleCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=InvisibleCatA1)](https://github.com/anuraghazra/github-readme-stats)
+ [![InvisibleCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=InvisibleCatA1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 InvisibleCatA1/InvisibleCatA1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
