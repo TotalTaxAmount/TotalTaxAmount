@@ -8,8 +8,8 @@ Languages I am familer with:
  
  I have no idea what else to put here lol
  
- [![InvisibleCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=InvisibleCatA1&show_icons=true&theme=dracula)
- (https://github.com/anuraghazra/github-readme-stats)![](https://github.com/InvisibleCatA1/github-stats/blob/master/generated/languages.svg)
+  [![InvisibleCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=InvisibleCatA1&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ ![](https://github.com/InvisibleCatA1/github-stats/blob/master/generated/languages.svg)
 
 
 <!---
