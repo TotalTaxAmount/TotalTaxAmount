@@ -4,9 +4,14 @@ Languages I am familer with:
   - Python
   - Java
  
- I am still learning more but those are the ones I am familer with at the time of writing this
+ I am still learning, but those are the ones I am good with.
+ However I am also learning:
+ - Golang
+ - C++
  
  I have no idea what else to put here lol
+ 
+ Random stats ⤵
  
   [![InvisibleCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=InvisibleCatA1&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  ![](https://github.com/InvisibleCatA1/github-stats/blob/master/generated/languages.svg)
