@@ -1,13 +1,17 @@
 ## Hello!
-I am InvisibleCat, I like to write code and do random stuff.
+I am InvisibleCat, I like to write code and do a slight amount of tomfoolery.
 Languages I am familer with:
   - Python
   - Java
  
- I am still learning, but those are the ones I am good with.
- However I am also learning:
+ Learning:
  - Golang
  - C++
+ - Kotlin
+ 
+ Projects:
+ - Chandlerware (Golang token logger (and possibly way more))
+ - Fairview robotics robot thing
  
  I have no idea what else to put here lol
  
