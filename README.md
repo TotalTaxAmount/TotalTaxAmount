@@ -6,7 +6,6 @@ Languages I am familer with:
  
  Learning:
  - Golang
- - C++
  - Kotlin
  
  Projects:
