@@ -12,6 +12,11 @@ Languges:
   <img src="https://img.shields.io/badge/Kotlin-270296?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p>
+
+Learning:
+<p>
+    <img src="https://img.shields.io/badge/Rust-ED8B00?style=for-the-badge&logo=rust&logoColor=white" />
+</p>
  
  Projects:
  - Chandlerware (Golang token logger (and possibly way more))
