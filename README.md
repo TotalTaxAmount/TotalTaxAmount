@@ -1,5 +1,5 @@
 ## Hello!
-I am InvisibleCat, I like to write code and do a slight amount of tomfoolery.
+I am InvisibleCat, I like to write code and do random shit
 
 
 Languges:
@@ -19,9 +19,8 @@ Learning:
 </p>
  
  Projects:
- - Chandlerware (Golang token logger (and possibly way more))
- - Fairview robotics robot thing
- 
+ - Fairview robotics team 2036
+ - Random class
  
  
  I have no idea what else to put here lol
