@@ -21,7 +21,7 @@ Learning:
  
  Projects:
  - Fairview robotics team 2036
- - Random class
+ - Making a website to upsell shit on tiktok
  
  
  I have no idea what else to put here lol
