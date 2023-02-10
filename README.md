@@ -11,6 +11,7 @@ Languges:
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-270296?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+   <img src="https://img.shields.io/badge/JavaScript-D92E8A?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
 Learning:
