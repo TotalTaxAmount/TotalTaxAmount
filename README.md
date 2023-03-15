@@ -20,9 +20,7 @@ Learning:
 </p>
  
  Projects:
- - Fairview robotics team 2036
- - Idfk
- 
+ - Fairview robotics team 2036 
  
  Random stats ⤵
  
