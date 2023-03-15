@@ -21,10 +21,8 @@ Learning:
  
  Projects:
  - Fairview robotics team 2036
- - Making a website to upsell shit on tiktok
+ - Idfk
  
- 
- I have no idea what else to put here lol
  
  Random stats ⤵
  
