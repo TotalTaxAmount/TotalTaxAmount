@@ -1,31 +1,31 @@
 ## Hello!
-I am InvisibleCat, I like to write code and do random shit
-
+I am TotalTaxAmount, currently I am in High school learning about import things. Outside of school I love to climb and also work with computers. I am fluent in Java, Kotlin, and Python. I also know a decent bit of Javascript and web devlopment. Currently I am learning Rust and C++.
 
 Languges:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-D92E8A?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-0084ff?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-270296?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-   <img src="https://img.shields.io/badge/JavaScript-D92E8A?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
 </p>
 
 Learning:
 <p>
     <img src="https://img.shields.io/badge/Rust-ED8B00?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
  
  Projects:
- - Fairview robotics team 2036 
+ - Fairview robotics team 2036
+ - Configuring nixos (fun)
  
  Random stats ⤵
  
-  [![InvisibleCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=InvisibleCatA1&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
- ![](https://github.com/InvisibleCatA1/github-stats/blob/master/generated/languages.svg)
+  [![TotalTaxAmount's GitHub stats](https://github-readme-stats.vercel.app/api?username=TotalTaxAmount&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ ![](https://github.com/TotalTaxAmount/github-stats/blob/master/generated/languages.svg)
 
 
 <!---
