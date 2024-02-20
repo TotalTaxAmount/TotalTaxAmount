@@ -1,5 +1,5 @@
 ## Hello!
-I am TotalTaxAmount, currently I am in High school learning about import things. Outside of school I love to climb and also work with computers. I am fluent in Java, Kotlin, and Python. I also know a decent bit of Javascript and web devlopment. Currently I am learning Rust and C++.
+I am TotalTaxAmount, currently I am in High School,  I love to climb and also work with computers. I am fluent in Java, Kotlin, Python, and Nix. I also know a decent bit of Javascript and web devlopment. Currently I am learning Rust and C. Right now I am very interested in low level programming.
 
 Languges:
 <p>
@@ -15,13 +15,13 @@ Languges:
 Learning:
 <p>
     <img src="https://img.shields.io/badge/Rust-ED8B00?style=for-the-badge&logo=rust&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
  
  Projects:
  - Fairview robotics team 2036
  - Configuring nixos
- - Learning rust and C++
+ - Learning rust and C
  
 stats ⤵
  
