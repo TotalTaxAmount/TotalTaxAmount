@@ -1,5 +1,5 @@
 ## Hello!
-I am TotalTaxAmount, currently I am in High School,  I love to climb and also work with computers. I am fluent in Java, Kotlin, Python, and Nix. I also know a decent bit of Javascript and web devlopment. Currently I am learning Rust and C. Right now I am very interested in low level programming.
+I am TotalTaxAmount, currently I am in High School,  I love to climb and also work with computers. I have experience with Java, Kotlin, Python, and Nix. I also know a decent bit of Javascript and web devlopment. Currently I am learning Rust and C. Right now I am interested in low level programming and hardware reverse engineering.
 
 Languges:
 <p>
