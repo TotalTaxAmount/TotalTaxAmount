@@ -24,10 +24,10 @@ Learning:
  - Configuring nixos
  - Learning rust and C
  
-stats (the language one is lying to you) ⤵
+stats ⤵
  
   [![TotalTaxAmount's GitHub stats](https://github-readme-stats.vercel.app/api?username=TotalTaxAmount&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
- ![](https://github.com/TotalTaxAmount/github-stats/blob/master/generated/languages.svg)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=totaltaxamount&layout=compact&exclude_repo=Graviton,Reload,dotfiles)
 
 
 <!---
