@@ -27,7 +27,7 @@ Learning:
 stats ⤵
  
   [![TotalTaxAmount's GitHub stats](https://github-readme-stats.vercel.app/api?username=TotalTaxAmount&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=totaltaxamount&layout=compact&exclude_repo=Graviton,Reload,dotfiles)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=totaltaxamount&layout=compact&exclude_repo=Graviton,Reload,dotfiles&langs_count=9)
 
 
 <!---
