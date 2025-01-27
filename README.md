@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=TotalTaxAmount)
 ## Hello!
-I am TotalTaxAmount, currently I am in High School,  I love to climb and also work with computers. I have experience with Java, Kotlin, Python, and Nix. I also know a decent bit of Javascript and web devlopment. Currently I am learning Rust and C. Right now I am interested in low level programming and hardware reverse engineering.
+I am currently a high school student. I have always found computers very intersting since as long as I can remeber. When I am not working on computer related projects I love to climb and hike. 
 
 Languges:
 <p>
@@ -11,11 +11,11 @@ Languges:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-270296?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-ED8B00?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
 Learning:
 <p>
-    <img src="https://img.shields.io/badge/Rust-ED8B00?style=for-the-badge&logo=rust&logoColor=white" />
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
  
