@@ -26,9 +26,9 @@ Learning:
  
 stats ⤵
  
-  [![TotalTaxAmount's GitHub stats](https://github-readme-stats.vercel.app/api?username=TotalTaxAmount&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=TotalTaxAmount&theme=material-palenight&card_width=600)](https://git.io/streak-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=totaltaxamount&theme=material-palenight&layout=compact&exclude_repo=Graviton,Reload,dotfiles&langs_count=9)
+  [![TotalTaxAmount's GitHub stats](https://github-readme-stats.vercel.app/api?username=TotalTaxAmount&show_icons=true&theme=material-palenight&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+  [![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=TotalTaxAmount&theme=material-palenight&card_width=500)](https://git.io/streak-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=totaltaxamount&theme=material-palenight&layout=compact&exclude_repo=Graviton,Reload,dotfiles&langs_count=9&card_width=500)
 
 
 <!---
