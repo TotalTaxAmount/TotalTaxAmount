@@ -22,7 +22,7 @@ Learning:
  Projects:
  - Fairview robotics team 2036
  - Configuring nixos
- - Learning rust and C
+ - Multiconnect
  
 stats ⤵
  
