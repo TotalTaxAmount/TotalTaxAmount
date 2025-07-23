@@ -5,7 +5,7 @@ I am currently a high school student. I have always found computers very interst
 Languges:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-D92E8A?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-D92E8A?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-0084ff?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white" />
@@ -20,7 +20,7 @@ Learning:
 </p>
  
  Projects:
- - Fairview robotics team 2036
+ - Deadbolts robotics team 10980
  - Configuring nixos
  - Multiconnect
  
