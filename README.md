@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=TotalTaxAmount)
 ## Hello!
-I am currently a high school student. I have always found computers very intersting since as long as I can remeber. When I am not working on computer related projects I love to climb and hike. 
+I am currently a collage freshman studying Electrical and Computer Engineering.
 
-Languges:
+Languages:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
